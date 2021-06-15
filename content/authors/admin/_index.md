@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Heliamusa 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: student of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: NRP
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
